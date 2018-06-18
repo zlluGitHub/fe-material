@@ -43,7 +43,8 @@
     2. [路由](https://router.vuejs.org/)
     3. [Vuex](https://vuex.vuejs.org/)
     4. [SSR](https://ssr.vuejs.org/)
-    4. [Vue2.0 新手入门 — 从环境搭建到发布](http://www.runoob.com/w3cnote/vue2-start-coding.html)
+    5. [Vue.js 教程](http://www.runoob.com/vue2/vue-tutorial.html)
+    6. [Vue2.0 新手入门 — 从环境搭建到发布](http://www.runoob.com/w3cnote/vue2-start-coding.html)
 
   - React
     1. [文档](https://doc.react-china.org/)
